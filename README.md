@@ -1,6 +1,16 @@
+# 21 Days GFG POTD CHALLENGE - 2024
 
+[![](https://img.shields.io/badge/Author⭐-neyhere07-darkgreen.svg)](https://github.com/neyhere07) <br><br>
 
-<h3>Table of Contents</h3>
+[![Welcome to this repo](https://img.shields.io/badge/Welcome.to.this.repo-blue.svg?style=flat&logo=github)](https://github.com/neyhere07)
+![](https://img.shields.io/badge/Programming_Language-Java-blue.svg)
+![](https://img.shields.io/badge/Status-Work.in.Progress-blue.svg)
+[![](https://img.shields.io/github/license/neyhere07/21-Days-GFG-POTD-Challenge-2024.svg?style=plastic)](https://github.com/neyhere07/21-Days-GFG-POTD-Challenge-2024)
+[![](https://img.shields.io/github/languages/code-size/neyhere07/21-Days-GFG-POTD-Challenge-2024.svg?style=plastic)](https://github.com/neyhere07s/21-Days-GFG-POTD-Challenge-2024)
+[![](https://img.shields.io/github/languages/top/neyhere07/21-Days-GFG-POTD-Challenge-2024.svg?style=plastic)](https://github.com/neyhere07/21-Days-GFG-POTD-Challenge-2024)
+<p>&nbsp;</p>
+
+<h2>Table of Contents :</h2>
 
 |Day  | Problem Name |Difficulty Level| Topics | | Day  | Problem Name | Difficulty Level | Topics | | Day  | Problem Name | Difficulty Level | Topics |
 |-----|--------------|-----------------|-------|--|-----|--------------|------------------|--------|--|------|-------------|------------------|--------|
